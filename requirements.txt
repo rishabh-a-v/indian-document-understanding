@@ -1,0 +1,17 @@
+# Runtime (tested versions pinned where IndicTrans2 / Patram remote code needs them)
+transformers==4.46.3
+tokenizers<0.21
+accelerate
+bitsandbytes
+sentencepiece
+sacremoses
+huggingface_hub
+pillow
+pymupdf
+pytesseract
+scikit-learn
+gradio
+IndicTransToolkit @ git+https://github.com/VarunGumma/IndicTransToolkit.git
+
+# Dev
+pytest
